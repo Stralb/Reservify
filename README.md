@@ -28,8 +28,6 @@ Reservify is more than just a booking system; it's a solution tailored for stude
 ## 🖼️ User Interface
 
 Here are a few visual references to the system's user interface:
-
-![Reservify Dashboard](path/to/dashboard-image.png)
 *A glimpse into the clean and intuitive design of Reservify.*
 
 ---
@@ -38,56 +36,56 @@ Here are a few visual references to the system's user interface:
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
   <div>
-    <img src="./images/image1.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="./images/Register.png" alt="Reservify Registration Screen" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Registration Screen</p>
+  </div>
+  <div>
+    <img src="./images/login.png" alt="Reservify Login Screen" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="text-align: center; font-style: italic; margin-top: 8px;">Login Screen</p>
   </div>
   <div>
-    <img src="./images/image2.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Dashboard Overview</p>
+    <img src="./images/adminprofilehome.png" alt="Reservify Admin Profile Home" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Admin Profile Home</p>
   </div>
   <div>
-    <img src="./images/image3.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Venue Listing</p>
+    <img src="./images/findvenue.png" alt="Reservify Find Venue" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Find Venue</p>
   </div>
   <div>
-    <img src="./images/image4.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Booking Form</p>
+    <img src="./images/reservevenuewithdate.png" alt="Reservify Reserve Venue With Date" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Reserve Venue With Date</p>
   </div>
   <div>
-    <img src="./images/image5.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Calendar View</p>
+    <img src="./images/confirmbooking.png" alt="Reservify Confirm Booking" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Confirm Booking</p>
   </div>
   <div>
-    <img src="./images/image6.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Venue Details</p>
+    <img src="./images/managebookings.png" alt="Reservify Manage Bookings" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Manage Bookings</p>
   </div>
   <div>
-    <img src="./images/image7.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Confirmation Screen</p>
-  </div>
-  <div>
-    <img src="./images/image8.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="./images/userprofile.png" alt="Reservify User Profile" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="text-align: center; font-style: italic; margin-top: 8px;">User Profile</p>
   </div>
   <div>
-    <img src="./images/image9.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Admin Panel</p>
+    <img src="./images/updateprofile.png" alt="Reservify Update Profile" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Update Profile</p>
   </div>
   <div>
-    <img src="./images/image10.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Reports Page</p>
+    <img src="./images/userupdateprofileencryption.png" alt="Reservify User Update Profile Encryption" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Profile Encryption</p>
   </div>
   <div>
-    <img src="./images/image11.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Notifications Center</p>
+    <img src="./images/swapvenues.png" alt="Reservify Swap Venues" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Swap Venues</p>
   </div>
   <div>
-    <img src="./images/image12.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Venue Management</p>
+    <img src="./images/admindeleteuser.png" alt="Reservify Admin Delete User" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Admin Delete User</p>
   </div>
   <div>
-    <img src="./images/image13.jpg" alt="Reservify Interface" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="text-align: center; font-style: italic; margin-top: 8px;">Settings Page</p>
+    <img src="./images/adminupdateuser.png" alt="Reservify Admin Update User" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-style: italic; margin-top: 8px;">Admin Update User</p>
   </div>
 </div>
 
@@ -110,7 +108,7 @@ To run this application, you will need to have Microsoft Access and a C# compati
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/your-username/Reservify.git
+   git clone https://github.com/Stralb/Reservify.git
    ```
 
 2. **Open the project**:
