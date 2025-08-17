@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\updateprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\updateprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\updateprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\updateprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\transparentlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\transparentlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\reservify@techfusion\\managebookingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\managebookingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\reservify@techfusion\\makebookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\makebookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\managebookingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\managebookingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\MakeBookingForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:Reservify@Techfusion\\MakeBookingForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\userprofilecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\userprofilecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\bookingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\bookingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\bookingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\bookingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\venuecard .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\venuecard .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|c:\\users\\dintl\\downloads\\reservify@techfusion\\reservify@techfusion\\reservify@techfusion\\venuecard .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B4C902E-BCB4-495B-AD26-ACD9526E971C}|Reservify@Techfusion\\Reservify@Techfusion.csproj|solutionrelative:reservify@techfusion\\venuecard .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\MainMenuForm.cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\MainMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:10:36.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:11:56.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProfiles.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\UpdateProfiles.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\UpdateProfiles.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\UpdateProfiles.cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\UpdateProfiles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:54:21.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\UpdateProfiles.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\UpdateProfiles.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\UpdateProfiles.cs",
+              "RelativeToolTip": "Reservify@Techfusion\\UpdateProfiles.cs",
+              "ViewState": "AgIAAIACAAAAAAAAAAAcwI4CAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:00:02.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\MainMenuForm.cs",
+              "RelativeToolTip": "Reservify@Techfusion\\MainMenuForm.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwD4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:14:32.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransparentLabel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\TransparentLabel.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\TransparentLabel.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\TransparentLabel.cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\TransparentLabel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:23:13.63Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\UpdateProfileForm.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\UpdateProfileForm.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\UpdateProfileForm.cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\UpdateProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:59:57.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageBookingsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\ManageBookingsForm.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\ManageBookingsForm.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\ManageBookingsForm.cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\ManageBookingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:04:22.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MakeBookingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\MakeBookingForm.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\MakeBookingForm.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\MakeBookingForm.cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\MakeBookingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:48:17.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageBookingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\ManageBookingsForm.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\ManageBookingsForm.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\ManageBookingsForm.cs",
+              "RelativeToolTip": "Reservify@Techfusion\\ManageBookingsForm.cs",
+              "ViewState": "AgIAAIQCAAAAAAAAAAAiwJYCAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:04:26.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MakeBookingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\MakeBookingForm.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\MakeBookingForm.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\MakeBookingForm.cs",
+              "RelativeToolTip": "Reservify@Techfusion\\MakeBookingForm.cs",
+              "ViewState": "AgIAANYBAAAAAAAAAAAiwOsBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:48:23.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:12:23.737Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserProfileCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\UserProfileCard.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\UserProfileCard.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\UserProfileCard.cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\UserProfileCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:35:02.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\BookingCard.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\BookingCard.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\BookingCard.cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\BookingCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:35:07.537Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingCard.cs",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\BookingCard.cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\BookingCard.cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\BookingCard.cs",
+              "RelativeToolTip": "Reservify@Techfusion\\BookingCard.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAD4vzwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:41:05.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VenueCard .cs",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\VenueCard .cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\VenueCard .cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\VenueCard .cs",
+              "RelativeToolTip": "Reservify@Techfusion\\VenueCard .cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAawDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:40:58.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VenueCard .cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\VenueCard .cs",
+              "RelativeDocumentMoniker": "Reservify@Techfusion\\VenueCard .cs",
+              "ToolTip": "C:\\Users\\Dintl\\Downloads\\Reservify@Techfusion\\Reservify@Techfusion\\Reservify@Techfusion\\VenueCard .cs [Design]",
+              "RelativeToolTip": "Reservify@Techfusion\\VenueCard .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:35:01.282Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
