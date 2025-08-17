@@ -112,7 +112,7 @@ To run this application, you will need to have Microsoft Access and a C# compati
    ```
 
 2. **Open the project**:
-   - Open the solution file (.sln) in Visual Studio or a similar C# IDE
+   - Open the solution file (.sln) in Visual Studio or a similar C# IDE of your choice
 
 3. **Configure the database**:
    - Ensure the connection string in your code points to the included AccessDB file
