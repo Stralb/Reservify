@@ -5,7 +5,7 @@
 Introducing an innovative platform designed to streamline the process of booking venues for clubs, societies, and classes. This user-friendly system simplifies reservation management, allowing users to easily view availability, secure bookings, and manage their events with efficiency.
 
 Reservify is more than just a booking system; it's a solution tailored for students, faculty, and event organizers, enhancing the way we coordinate and utilize campus spaces and ensuring a seamless experience for all.
- 
+
 ---
 
 ## ✨ Features
